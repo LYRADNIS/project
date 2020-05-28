@@ -8,6 +8,7 @@
     padding-top: 1%;
 }
 .rightInteraction{
-    float:right;
-    width: 48%;
+    float: right;
+    position: relative;
+    display: inline-block;
 }
